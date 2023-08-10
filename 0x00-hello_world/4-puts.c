@@ -1,9 +1,11 @@
 #include <stdio.h>
 /**
- * this is the main function where the program runs from
-*/
-int main()
+ * main - the main function 
+ *
+ * Return: 0 always returns 0
+ */
+int main(void)
 {
-   puts("\"Programming is like building a multilingual puzzle");
-   return 0; 
+puts("\"Programming is like building a multilingual puzzle");
+ return(0); 
 }
