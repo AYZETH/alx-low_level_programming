@@ -2,7 +2,7 @@
 /**
  *main - the main function
  *
- *return: 0 always return 0
+ *Return: 0 always return 0
  */
 int main(void)
 {
